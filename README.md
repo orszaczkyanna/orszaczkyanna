@@ -1,7 +1,7 @@
 ### Hi, I'm Anna
 
-I'm a junior developer currently focused on JavaScript and related technologies, but I'm open to working in any language where my knowledge is sufficient or in a role that allows me to improve.</br>
-I'm looking for a part-time or flexible remote position where I can gradually develop my skills while contributing to real-world projects.
+I'm a junior developer looking for a flexible remote position where I can develop my skills through real work and contribute to useful products or features.  
+I'd like to gain more experience by working on real-world production projects as part of a team.
 
 Scroll down to see my portfolio projects in the pinned section.
 
